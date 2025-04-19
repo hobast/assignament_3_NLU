@@ -1,0 +1,29 @@
+🔗 🎥 View Full Project with GUI on YouTube:
+👉 https://youtu.be/uLDHdd1bFek?si=kgcn9i0VcPpy9faP
+
+This project is a simple implementation of a classical Information Retrieval (IR) system using the TF-IDF vectorization technique.
+It is designed to process a text-based corpus (loaded from Hugging Face datasets) and return the most relevant results based on a user’s search query.
+
+The application is built in Python, using:
+
+scikit-learn for TF-IDF transformation and cosine similarity
+
+tkinter for building a basic graphical user interface (GUI)
+
+datasets library to load corpora (e.g., AG News)
+
+The user can enter a query, and the system retrieves the top-matching documents based on semantic relevance using TF-IDF weights.
+
+This assignment demonstrates how traditional IR models work, and how they can be applied to real-world datasets using modern Python tools.
+
+💡 Topics involved:
+
+Classical Information Retrieval
+
+Term Frequency–Inverse Document Frequency (TF-IDF)
+
+Cosine Similarity
+
+GUI in Python
+
+Dataset handling with Hugging Face
